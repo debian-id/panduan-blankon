@@ -24,3 +24,10 @@ Silahkan [fork repositori ini](https://github.com/atoz-chevara/blankon-doc/fork)
 
 Silahkan laporkan masalah pada halaman [issues](https://github.com/atoz-chevara/blankon-doc/issues).
 
+# BlankOn Desktop Tambora
+
+![Desktop](tangkapan_layar/desktop.png)
+
+![Panel Menu](tangkapan_layar/panel-menu.png)
+
+![Panel Tambahan](tangkapan_layar/panel-tambahan.png)
