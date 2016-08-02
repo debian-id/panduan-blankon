@@ -5,7 +5,7 @@
 # Compiled with texmath 0.6.6.1, highlighting-kate 0.5.8.5.
 #
 DOC='buku-panduan'
-RILIS='rote'
+RILIS='tambora'
 TARGET='output'
 
 echo "Menghapus berkas sebelumnya"
